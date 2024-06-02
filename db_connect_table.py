@@ -6,7 +6,7 @@ def connect_to_database():
         connection = connector.connect(
             host="127.0.0.1",
             user="root",     # Replace with your MySQL username           
-            password="theGis@123",
+            password="xxxxxx",
             database="littlelemondb"
         )
 
