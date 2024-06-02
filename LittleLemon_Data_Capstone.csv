@@ -1,0 +1,51 @@
+rowNumber,orderID,orderDate,deliveryDate,customerID,customerName,city,country,postalCode,countryCode,cost,sales,quantity,discount,deliveryCost,courseName,cuisineName,starterName,desertName,drink,sides
+1,54-366-6861,2020-06-15,2020-03-26,72-055-7985,Laney Fadden,Daruoyan,China,993-0031,CN,125.0,187.5,2,20.0,60.51,Greek salad,Greek,Olives,Greek yoghurt,Athens White wine,Tapas
+2,63-761-3686,2020-08-25,2020-07-17,65-353-0657,Giacopo Bramich,Ongjin,North Korea,216282,KP,235.0,352.5,1,15.0,96.75,Bean soup,Italian,Flatbread,Ice cream,Corfu Red Wine,Potato salad
+3,65-351-6434,2021-08-17,2020-04-24,90-876-6799,Lia Bonar,Quince Mil,Peru,663246,PE,75.0,112.5,3,10.52,36.37,Pizza,Italian,Minestrone,Cheesecake,Italian Coffee,Bruschetta
+4,36-917-2834,2021-08-14,2020-04-13,73-873-4827,Merrill Baudon,Susaki,Japan,987-0352,JP,220.0,330.0,3,11.23,5.49,Carbonara,Turkish,Tomato bread,Affogato,Roma Red wine,Focaccia
+5,86-114-9232,2020-12-20,2021-02-02,80-927-5246,Tasia Fautly,Tobruk,Libya,351 01,LY,320.0,480.0,2,51.05,63.64,Kabasa,Greek,Falafel,Turkish yoghurt,Ankara White Wine,Meatballs
+6,67-709-5581,2020-03-01,2020-01-13,77-111-2020,Angel Veschambre,Rafael Hernandez Ochoa,Mexico,93995,MX,210.0,315.0,1,89.84,5.04,Shwarma,Italian,Hummus,Baklava,Turkish Coffee,Fries
+7,80-076-4032,2021-10-04,2019-10-26,10-341-4047,Sheilah Maestro,BelozÃ«rskoye,Russia,641360,RU,310.0,465.0,2,17.4,56.95,Greek salad,Italian,Olives,Greek yoghurt,Athens White wine,Tapas
+8,56-271-4185,2021-10-09,2020-12-27,83-800-4789,Audie Willcocks,PÃ³voa do Valado,Portugal,3810-760,PT,225.0,337.5,3,91.41,91.05,Bean soup,Turkish,Flatbread,Ice cream,Corfu Red Wine,Potato salad
+9,43-052-9931,2021-12-27,2021-04-16,89-896-4591,Mart Malsher,Galâ€™bshtadt,Russia,692769,RU,190.0,285.0,2,9.71,86.28,Pizza,Greek,Minestrone,Cheesecake,Italian Coffee,Bruschetta
+10,15-663-0481,2020-03-05,2021-11-13,21-282-1343,Magdalen Lacheze,Fuyang,China,649-6326,CN,98.0,147.0,1,80.34,31.34,Carbonara,Italian,Tomato bread,Affogato,Roma Red wine,Focaccia
+11,23-582-1221,2019-07-20,2019-11-28,04-699-2162,Margarita Mancktelow,Pindiga,Nigeria,33619,NG,168.27,252.405,3,54.08,85.08,Kabasa,Italian,Falafel,Turkish yoghurt,Ankara White Wine,Meatballs
+12,61-057-1975,2022-06-26,2021-04-17,72-013-3529,Ashil Brogini,Wakayama-shi,Japan,649-6326,JP,101.6,152.4,3,98.01,25.98,Shwarma,Turkish,Hummus,Baklava,Turkish Coffee,Fries
+13,87-599-0366,2020-12-03,2022-01-07,09-688-8521,Arthur Mathewson,Qingshan,China,353715,CN,93.13,139.695,2,99.24,96.84,Greek salad,Greek,Olives,Greek yoghurt,Athens White wine,Tapas
+14,85-795-3011,2022-04-13,2020-07-05,08-390-4691,Ennis Dungate,Pueblo Viejo,Panama,351 01,PA,44.57,66.855,1,30.0,31.22,Bean soup,Italian,Flatbread,Ice cream,Corfu Red Wine,Potato salad
+15,08-270-7581,2020-08-22,2020-03-17,56-479-7571,Tiffani Halstead,Chelbasskaya,Russia,353715,RU,91.84,137.76,2,37.04,88.76,Pizza,Italian,Minestrone,Cheesecake,Italian Coffee,Bruschetta
+16,05-410-4163,2020-09-30,2021-11-27,75-558-6855,Roddie Winterbotham,Leticia,Colombia,910008,CO,133.17,199.755,3,24.0,63.21,Carbonara,Turkish,Tomato bread,Affogato,Roma Red wine,Focaccia
+17,82-639-1298,2019-09-04,2022-10-14,09-710-7305,Pincas Stearn,Bielefeld,Germany,33619,DE,52.08,78.12,2,10.0,17.25,Kabasa,Greek,Falafel,Turkish yoghurt,Ankara White Wine,Meatballs
+18,81-875-5053,2021-04-29,2019-12-03,81-678-3234,Tony Crabtree,Kuzhu,China,993-0032,CN,83.99,125.985,1,53.53,39.3,Shwarma,Italian,Hummus,Baklava,Turkish Coffee,Fries
+19,69-780-6998,2020-04-14,2022-04-06,83-988-2186,Tamarah Filasov,Kertamukti,Indonesia,1110210,ID,69.38,104.07,3,23.0,53.56,Greek salad,Italian,Olives,Greek yoghurt,Athens White wine,Tapas
+20,45-989-0711,2020-04-24,2019-12-29,66-386-4902,Pen Pruce,Yeghegnut,Armenia,1557174,AM,119.8,179.7,3,73.09,28.6,Bean soup,Turkish,Olives,Ice cream,Corfu Red Wine,Potato salad
+21,10-052-8149,2019-09-30,2020-12-30,37-285-0504,Boot Burree,Baisangguan,China,987-0353,CN,125.0,187.5,2,20.33,61.97,Pizza,Greek,Flatbread,Cheesecake,Italian Coffee,Bruschetta
+22,87-988-3093,2021-06-08,2021-12-15,07-111-7669,Sabra Calbreath,FrantiÅ¡kovy LÃ¡znÄ›,Czech Republic,352 01,CZ,235.0,352.5,1,9.12,36.98,Carbonara,Italian,Minestrone,Affogato,Roma Red wine,Focaccia
+23,04-812-8753,2020-06-01,2021-09-28,84-136-7752,Obidiah Zanicchi,Tabu,Indonesia,1188725,ID,75.0,112.5,2,67.77,27.07,Kabasa,Italian,Tomato bread,Turkish yoghurt,Ankara White Wine,Meatballs
+24,56-331-9919,2021-11-03,2020-01-05,72-417-9175,Anders Stowe,Daâ€™anshan,China,1736090,CN,220.0,330.0,3,35.44,60.52,Shwarma,Turkish,Falafel,Baklava,Turkish Coffee,Fries
+25,35-371-2486,2020-02-02,2020-02-04,79-082-9805,Locke Janaway,Jelat,Indonesia,3810-761,ID,320.0,480.0,2,31.2,56.51,Greek salad,Greek,Hummus,Greek yoghurt,Athens White wine,Tapas
+26,24-714-2660,2019-09-13,2020-10-11,24-545-1124,Kaylyn Colebourne,Shuangqiao,China,692770,CN,210.0,315.0,1,61.49,10.69,Bean soup,Italian,Olives,Ice cream,Corfu Red Wine,Potato salad
+27,00-465-7031,2020-08-25,2022-09-03,84-300-6499,Noni Quickenden,Mont-Royal,Canada,649-6327,CA,310.0,465.0,3,91.14,95.63,Pizza,Italian,Flatbread,Cheesecake,Italian Coffee,Bruschetta
+28,01-975-7149,2021-04-22,2020-04-19,93-913-0650,Alan Paskell,Longzui,China,33620,CN,225.0,337.5,3,97.48,27.41,Carbonara,Turkish,Minestrone,Affogato,Roma Red wine,Focaccia
+29,92-747-8084,2019-08-09,2020-11-06,91-251-5721,Anny Pattemore,Karanganyar,Indonesia,649-6327,ID,190.0,285.0,2,68.89,41.35,Kabasa,Greek,Tomato bread,Turkish yoghurt,Ankara White Wine,Meatballs
+30,81-819-6997,2022-04-12,2022-11-19,04-960-9928,Les Harmson,Podkamennaya Tunguska,Russia,353716,RU,98.0,147.0,1,47.84,81.65,Shwarma,Italian,Falafel,Baklava,Turkish Coffee,Fries
+31,48-370-5933,2022-01-28,2021-03-12,35-042-6593,Horatio Lundy,Huangcun,China,352 01,CN,168.27,252.405,2,94.76,29.39,Greek salad,Italian,Hummus,Greek yoghurt,Athens White wine,Tapas
+32,87-939-7467,2021-04-02,2022-08-31,45-879-0850,Sibley Rodder,Tyvriv,Ukraine,112351.333333333,UA,101.6,152.4,3,20.0,80.78,Bean soup,Turkish,Olives,Ice cream,Corfu Red Wine,Potato salad
+33,20-205-9814,2021-11-23,2020-08-25,78-492-1244,Dniren Copperwaite,Zhuhu,China,-47696.6666666667,CN,93.13,139.695,2,15.0,89.49,Pizza,Greek,Flatbread,Cheesecake,Italian Coffee,Bruschetta
+34,37-563-3518,2022-04-05,2019-12-16,87-172-1004,Sorcha Beesley,Zabrat,Azerbaijan,-207744.666666667,AZ,44.57,66.855,1,10.52,85.67,Carbonara,Italian,Minestrone,Affogato,Roma Red wine,Focaccia
+35,35-988-0040,2019-08-10,2022-01-24,55-516-2272,Alison Jamieson,CambuÃ­,Brazil,993-0033,BR,91.84,137.76,3,11.23,3.41,Kabasa,Italian,Tomato bread,Turkish yoghurt,Ankara White Wine,Meatballs
+36,60-197-5739,2022-02-27,2021-04-04,79-227-9821,Dre Danher,Libei,China,2004138,CN,133.17,199.755,3,51.05,84.09,Shwarma,Turkish,Falafel,Baklava,Turkish Coffee,Fries
+37,36-383-1600,2019-08-08,2020-10-09,87-811-2475,Chris Gummer,Kubangwaru,Indonesia,2451102,ID,52.08,78.12,2,89.84,49.69,Greek salad,Greek,Hummus,Greek yoghurt,Athens White wine,Tapas
+38,61-096-3317,2022-05-04,2021-05-06,97-003-2495,Adiana Shirtliff,Haradzyeya,Belarus,987-0354,BY,83.99,125.985,1,17.4,15.9,Bean soup,Italian,Olives,Ice cream,Corfu Red Wine,Potato salad
+39,30-867-3284,2020-10-05,2022-12-19,26-631-4044,Derry Davis,La Loma,Panama,353 01,PA,69.38,104.07,2,91.41,80.86,Pizza,Italian,Olives,Cheesecake,Italian Coffee,Bruschetta
+40,29-601-2712,2021-01-27,2021-01-25,07-925-9556,Lenci McFadzean,El Triunfo de la Cruz,Honduras,2283455,HN,119.8,179.7,3,9.71,33.7,Carbonara,Turkish,Flatbread,Affogato,Roma Red wine,Focaccia
+41,28-387-3547,2019-08-14,2022-01-07,18-296-6063,Uriel Grooby,Izumi,Japan,2830820,JP,125.0,187.5,2,80.34,18.6,Kabasa,Greek,Minestrone,Turkish yoghurt,Ankara White Wine,Meatballs
+42,33-596-6321,2021-11-25,2020-12-05,26-237-6257,Jillayne Gaiford,BÅ«laevo,Kazakhstan,3810-762,KZ,235.0,352.5,1,54.08,86.02,Shwarma,Italian,Tomato bread,Baklava,Turkish Coffee,Fries
+43,48-873-2607,2019-09-29,2022-03-12,77-064-4656,Tiertza Doogan,Ovsyanka,Russia,692771,RU,75.0,112.5,3,98.01,35.33,Greek salad,Italian,Falafel,Greek yoghurt,Athens White wine,Tapas
+44,46-671-2432,2022-04-13,2021-03-18,29-631-4932,Ilario Michie,Pindiga,Nigeria,649-6328,NG,220.0,330.0,3,99.24,31.82,Bean soup,Turkish,Hummus,Ice cream,Corfu Red Wine,Potato salad
+45,67-067-9693,2020-12-10,2019-11-12,04-268-9065,Sarah Plaschke,Narathiwat,Thailand,33621,TH,320.0,480.0,2,30.0,54.59,Pizza,Greek,Olives,Cheesecake,Italian Coffee,Bruschetta
+46,94-148-7497,2022-11-19,2022-12-30,06-545-4037,Skipp Lowater,Pacaraos,Peru,649-6328,PE,210.0,315.0,1,37.04,51.93,Carbonara,Italian,Flatbread,Affogato,Roma Red wine,Focaccia
+47,90-921-1904,2021-08-16,2021-04-17,82-278-5664,Maddalena Wolfinger,Senanga,Zambia,353717,ZM,310.0,465.0,2,24.0,45.57,Kabasa,Italian,Minestrone,Turkish yoghurt,Ankara White Wine,Meatballs
+48,87-546-5058,2021-06-13,2022-08-31,19-112-3031,Mariquilla Labbe,NotsÃ©,Togo,353 01,TG,225.0,337.5,3,10.0,78.35,Shwarma,Turkish,Tomato bread,Baklava,Turkish Coffee,Fries
+49,25-522-2006,2021-02-02,2021-12-28,58-749-9630,Cornelius Harkess,Morelos,Mexico,-367792.666666667,MX,190.0,285.0,2,53.53,17.19,Greek salad,Greek,Falafel,Greek yoghurt,Athens White wine,Tapas
+50,69-765-1585,2022-03-07,2021-09-08,60-238-7059,Erv Padrick,Phichai,Thailand,-527840.666666667,TH,98.0,147.0,1,23.0,83.86,Bean soup,Italian,Hummus,Ice cream,Corfu Red Wine,Potato salad
