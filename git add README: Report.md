@@ -30,7 +30,7 @@ Data ingestion involves preparing and importing data from the Excel file into th
 •	Data Cleaning: Removing duplicates and correcting inconsistencies.
 •	Data Transformation: Converting data into the required formats.
 •	Data Insertion: Using SQL to insert cleaned and transformed data into the database.
-
+Importantly, the original dataset was significantly large, so it was reduced to a manageable sample size named LittleLemon_Data_Capstone.
 7. Stored Procedures
 Stored procedures automate repetitive tasks and ensure consistency in data management. The following procedures were implemented:
    `GetMaxQuantity`, `ManageBooking`, `UpdateBooking`, `AddBooking`, and `CancelBooking`.
